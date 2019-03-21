@@ -1,0 +1,51 @@
+@import './fontiran.css';
+*{
+    font-family: IRANSans!important;
+    direction: rtl;
+    text-align: right;
+}
+.content{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    top: 0;
+    width: 92%;
+}
+.side_bar{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    background-color: rgb(232, 236, 241);
+}
+.cursor-pointer:hover{
+    cursor: pointer;
+}
+.box-shadow{
+    box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.1);
+}
+.border-radius-4{
+    border-radius: 4px;
+}
+.text-bold{
+    font-weight: bold;
+}
+.fade-enter-active,
+.fade-leave-active {
+  transition-duration: 0.3s;
+  transition-property: opacity;
+  transition-timing-function: ease;
+}
+
+.fade-enter,
+.fade-leave-active {
+  opacity: 0
+}
+.el-select-dropdown__wrap{
+    direction: ltr!important;
+}
+.popper__arrow {
+    right: 35px;
+    left: auto;
+    border-bottom-color: transparent!important;
+}
