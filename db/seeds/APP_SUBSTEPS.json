@@ -1,0 +1,378 @@
+[
+  {
+    "NAME": "حیوانات",
+    "PARENT_STEP": 1,
+    "NUMBER": 1,
+    "EXAMS": 2,
+    "EXAMS_TYPE": "ab",
+    "ID": 1
+  },
+  {
+    "NAME": "پوشاک",
+    "PARENT_STEP": 1,
+    "NUMBER": 2,
+    "EXAMS": 2,
+    "EXAMS_TYPE": "ab",
+    "ID": 2
+  },
+  {
+    "NAME": "میوه ها",
+    "PARENT_STEP": 1,
+    "NUMBER": 3,
+    "EXAMS": 2,
+    "EXAMS_TYPE": "ab",
+    "ID": 3
+  },
+  {
+    "NAME": "اشیا",
+    "PARENT_STEP": 1,
+    "NUMBER": 4,
+    "EXAMS": 2,
+    "EXAMS_TYPE": "ab",
+    "ID": 4
+  },
+  {
+    "NAME": "مکان ها",
+    "PARENT_STEP": 1,
+    "NUMBER": 5,
+    "EXAMS": 2,
+    "EXAMS_TYPE": "ab",
+    "ID": 5
+  },
+  {
+    "NAME": "خوراک",
+    "PARENT_STEP": 1,
+    "NUMBER": 6,
+    "EXAMS": 2,
+    "EXAMS_TYPE": "ab",
+    "ID": 6
+  },
+  {
+    "NAME": "مشاغل",
+    "PARENT_STEP": 1,
+    "NUMBER": 7,
+    "EXAMS": 2,
+    "EXAMS_TYPE": "ab",
+    "ID": 7
+  },
+  {
+    "NAME": "به کارگیری کسره اضافه",
+    "PARENT_STEP": 2,
+    "NUMBER": 1,
+    "EXAMS": 2,
+    "EXAMS_TYPE": "ac",
+    "ID": 8
+  },
+  {
+    "NAME": "آشنایی با افعال(برای سوم شخص مفرد)",
+    "PARENT_STEP": 3,
+    "NUMBER": 1,
+    "EXAMS": 2,
+    "EXAMS_TYPE": "ab",
+    "ID": 9
+  },
+  {
+    "NAME": "صفات متضاد",
+    "PARENT_STEP": 4,
+    "NUMBER": 1,
+    "EXAMS": 2,
+    "EXAMS_TYPE": "bc",
+    "ID": 10
+  },
+  {
+    "NAME": "رنگ ها",
+    "PARENT_STEP": 4,
+    "NUMBER": 2,
+    "EXAMS": 2,
+    "EXAMS_TYPE": "ab",
+    "ID": 11
+  },
+  {
+    "NAME": "صرف افعال",
+    "PARENT_STEP": 5,
+    "NUMBER": 1,
+    "EXAMS": 2,
+    "EXAMS_TYPE": "em",
+    "ID": 12
+  },
+  {
+    "NAME": "به کارگیری علامت جمع در اسامی",
+    "PARENT_STEP": 6,
+    "NUMBER": 1,
+    "EXAMS": 2,
+    "EXAMS_TYPE": "ab",
+    "ID": 13
+  },
+  {
+    "NAME": "کاربرد «و» بین دو کلمه",
+    "PARENT_STEP": 7,
+    "NUMBER": 1,
+    "EXAMS": 2,
+    "EXAMS_TYPE": "ab",
+    "ID": 14
+  },
+  {
+    "NAME": "این",
+    "PARENT_STEP": 8,
+    "NUMBER": 1,
+    "EXAMS": 2,
+    "EXAMS_TYPE": "ab",
+    "ID": 15
+  },
+  {
+    "NAME": "آن",
+    "PARENT_STEP": 8,
+    "NUMBER": 2,
+    "EXAMS": 2,
+    "EXAMS_TYPE": "ab",
+    "ID": 16
+  },
+  {
+    "NAME": "اینها",
+    "PARENT_STEP": 8,
+    "NUMBER": 3,
+    "EXAMS": 2,
+    "EXAMS_TYPE": "ab",
+    "ID": 17
+  },
+  {
+    "NAME": "آنها",
+    "PARENT_STEP": 8,
+    "NUMBER": 4,
+    "EXAMS": 2,
+    "EXAMS_TYPE": "ab",
+    "ID": 18
+  },
+  {
+    "NAME": "داشتن",
+    "PARENT_STEP": 9,
+    "NUMBER": 1,
+    "EXAMS": 1,
+    "EXAMS_TYPE": "f",
+    "ID": 19
+  },
+  {
+    "NAME": "ضمایر ملکی",
+    "PARENT_STEP": 10,
+    "NUMBER": 1,
+    "EXAMS": 1,
+    "EXAMS_TYPE": "m",
+    "ID": 20
+  },
+  {
+    "NAME": "بود و شد",
+    "PARENT_STEP": 11,
+    "NUMBER": 1,
+    "EXAMS": 1,
+    "EXAMS_TYPE": "f",
+    "ID": 21
+  },
+  {
+    "NAME": "در،به،با،از",
+    "PARENT_STEP": 12,
+    "NUMBER": 1,
+    "EXAMS": 1,
+    "EXAMS_TYPE": "f",
+    "ID": 22
+  },
+  {
+    "NAME": "همه،هیچ",
+    "PARENT_STEP": 13,
+    "NUMBER": 1,
+    "EXAMS": 1,
+    "EXAMS_TYPE": "f",
+    "ID": 23
+  },
+  {
+    "NAME": "اولین،آخرین،چندمین و...",
+    "PARENT_STEP": 14,
+    "NUMBER": 1,
+    "EXAMS": 1,
+    "EXAMS_TYPE": "f",
+    "ID": 24
+  },
+  {
+    "NAME": "اما،ولی",
+    "PARENT_STEP": 16,
+    "NUMBER": 1,
+    "EXAMS": 1,
+    "EXAMS_TYPE": "e",
+    "ID": 25
+  },
+  {
+    "NAME": "فعل آینده",
+    "PARENT_STEP": 17,
+    "NUMBER": 1,
+    "EXAMS": 1,
+    "EXAMS_TYPE": "f",
+    "ID": 26
+  },
+  {
+    "NAME": "توانستن",
+    "PARENT_STEP": 18,
+    "NUMBER": 1,
+    "EXAMS": 1,
+    "EXAMS_TYPE": "f",
+    "ID": 27
+  },
+  {
+    "NAME": "باید و نباید",
+    "PARENT_STEP": 19,
+    "NUMBER": 1,
+    "EXAMS": 1,
+    "EXAMS_TYPE": "f",
+    "ID": 28
+  },
+  {
+    "NAME": "کجا،چه کسی،چه چیزی",
+    "PARENT_STEP": 21,
+    "NUMBER": 1,
+    "EXAMS": 2,
+    "EXAMS_TYPE": "fh",
+    "ID": 29
+  },
+  {
+    "NAME": "قیود",
+    "PARENT_STEP": 22,
+    "NUMBER": 1,
+    "EXAMS": 1,
+    "EXAMS_TYPE": "g",
+    "ID": 30
+  },
+  {
+    "NAME": "زمان",
+    "PARENT_STEP": 23,
+    "NUMBER": 1,
+    "EXAMS": 1,
+    "EXAMS_TYPE": "f",
+    "ID": 31
+  },
+  {
+    "NAME": "دلیل",
+    "PARENT_STEP": 23,
+    "NUMBER": 2,
+    "EXAMS": 1,
+    "EXAMS_TYPE": "f",
+    "ID": 32
+  },
+  {
+    "NAME": "برتر و برترین",
+    "PARENT_STEP": 15,
+    "NUMBER": 1,
+    "EXAMS": 1,
+    "EXAMS_TYPE": "f",
+    "ID": 33
+  },
+  {
+    "NAME": "جمله سازی ساده",
+    "PARENT_STEP": 24,
+    "NUMBER": 1,
+    "EXAMS": 1,
+    "EXAMS_TYPE": "e",
+    "ID": 34
+  },
+  {
+    "NAME": "جمله سازی متوسط",
+    "PARENT_STEP": 25,
+    "NUMBER": 1,
+    "EXAMS": 1,
+    "EXAMS_TYPE": "g",
+    "ID": 35
+  },
+  {
+    "NAME": "کدام",
+    "PARENT_STEP": 26,
+    "NUMBER": 1,
+    "EXAMS": 1,
+    "EXAMS_TYPE": "f",
+    "ID": 36
+  },
+  {
+    "NAME": "چرا ، چون",
+    "PARENT_STEP": 27,
+    "NUMBER": 1,
+    "EXAMS": 1,
+    "EXAMS_TYPE": "n",
+    "ID": 37
+  },
+  {
+    "NAME": "مرتب کردن جملات",
+    "PARENT_STEP": 28,
+    "NUMBER": 1,
+    "EXAMS": 1,
+    "EXAMS_TYPE": "i",
+    "ID": 38
+  },
+  {
+    "NAME": "که",
+    "PARENT_STEP": 29,
+    "NUMBER": 1,
+    "EXAMS": 1,
+    "EXAMS_TYPE": "f",
+    "ID": 39
+  },
+  {
+    "NAME": "برای",
+    "PARENT_STEP": 30,
+    "NUMBER": 1,
+    "EXAMS": 1,
+    "EXAMS_TYPE": "f",
+    "ID": 40
+  },
+  {
+    "NAME": "بعد",
+    "PARENT_STEP": 31,
+    "NUMBER": 1,
+    "EXAMS": 1,
+    "EXAMS_TYPE": "f",
+    "ID": 41
+  },
+  {
+    "NAME": "بنابراین",
+    "PARENT_STEP": 32,
+    "NUMBER": 1,
+    "EXAMS": 1,
+    "EXAMS_TYPE": "f",
+    "ID": 42
+  },
+  {
+    "NAME": "توصیف مشاهیر،مکانهاو..",
+    "PARENT_STEP": 33,
+    "NUMBER": 1,
+    "EXAMS": 1,
+    "EXAMS_TYPE": "f",
+    "ID": 43
+  },
+  {
+    "NAME": "اگر",
+    "PARENT_STEP": 20,
+    "NUMBER": 1,
+    "EXAMS": 1,
+    "EXAMS_TYPE": "f",
+    "ID": 44
+  },
+  {
+    "NAME": "وابستگی جمله و کلمه",
+    "PARENT_STEP": 34,
+    "NUMBER": 1,
+    "EXAMS": 1,
+    "EXAMS_TYPE": "p",
+    "ID": 45
+  },
+  {
+    "NAME": "تکمیل جملات",
+    "PARENT_STEP": 35,
+    "NUMBER": 1,
+    "EXAMS": 1,
+    "EXAMS_TYPE": "o",
+    "ID": 46
+  },
+  {
+    "NAME": "اصلاح جملات",
+    "PARENT_STEP": 35,
+    "NUMBER": 2,
+    "EXAMS": 1,
+    "EXAMS_TYPE": "l",
+    "ID": 47
+  }
+]

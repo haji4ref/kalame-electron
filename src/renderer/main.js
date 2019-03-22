@@ -1,10 +1,11 @@
 import Vue from 'vue'
 import axios from 'axios'
-
 import App from './App'
+import 'reflect-metadata';
 
 Vue.http = Vue.prototype.$http = axios
 Vue.config.productionTip = false;
+
 
 import './assets/css/styles.css';
 import ElementUI from 'element-ui';

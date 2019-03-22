@@ -1,0 +1,177 @@
+[
+  {
+    "NAME": "افزایش خزانه ی واژگان",
+    "SUB_STEPS": 7,
+    "STEP_NUMBER": 1
+  },
+  {
+    "NAME": "مالکیت با کسره",
+    "SUB_STEPS": 1,
+    "STEP_NUMBER": 2
+  },
+  {
+    "NAME": "آشنایی با افعال",
+    "SUB_STEPS": 1,
+    "STEP_NUMBER": 3
+  },
+  {
+    "NAME": "آشنایی با صفات",
+    "SUB_STEPS": 2,
+    "STEP_NUMBER": 4
+  },
+  {
+    "NAME": "صرف افعال",
+    "SUB_STEPS": 1,
+    "STEP_NUMBER": 5
+  },
+  {
+    "NAME": "کلمات مفرد و جمع",
+    "SUB_STEPS": 1,
+    "STEP_NUMBER": 6
+  },
+  {
+    "NAME": "آشنایی با حرف \"و\"",
+    "SUB_STEPS": 1,
+    "STEP_NUMBER": 7
+  },
+  {
+    "NAME": "آشنایی با این،آن،اینها،آنها",
+    "SUB_STEPS": 4,
+    "STEP_NUMBER": 8
+  },
+  {
+    "NAME": "مالکیت",
+    "SUB_STEPS": 1,
+    "STEP_NUMBER": 9
+  },
+  {
+    "NAME": "ضمایر ملکی",
+    "SUB_STEPS": 1,
+    "STEP_NUMBER": 10
+  },
+  {
+    "NAME": "فعل \"بود\" و \"شد\"",
+    "SUB_STEPS": 1,
+    "STEP_NUMBER": 11
+  },
+  {
+    "NAME": "حرف اضافه \"در\"،\"به\"،\"از\"",
+    "SUB_STEPS": 1,
+    "STEP_NUMBER": 12
+  },
+  {
+    "NAME": "صفات مبهم",
+    "SUB_STEPS": 1,
+    "STEP_NUMBER": 13
+  },
+  {
+    "NAME": "ترتیب",
+    "SUB_STEPS": 1,
+    "STEP_NUMBER": 14
+  },
+  {
+    "NAME": "\"اما\" و \"ولی\"",
+    "SUB_STEPS": 1,
+    "STEP_NUMBER": 16
+  },
+  {
+    "NAME": "فعل آینده",
+    "SUB_STEPS": 1,
+    "STEP_NUMBER": 17
+  },
+  {
+    "NAME": "توانستن",
+    "SUB_STEPS": 1,
+    "STEP_NUMBER": 18
+  },
+  {
+    "NAME": "باید و نباید",
+    "SUB_STEPS": 1,
+    "STEP_NUMBER": 19
+  },
+  {
+    "NAME": "آشنایی کلمات استفهامی",
+    "SUB_STEPS": 1,
+    "STEP_NUMBER": 21
+  },
+  {
+    "NAME": "قیود",
+    "SUB_STEPS": 1,
+    "STEP_NUMBER": 22
+  },
+  {
+    "NAME": "آشنایی با حرف اضافه تا",
+    "SUB_STEPS": 2,
+    "STEP_NUMBER": 23
+  },
+  {
+    "NAME": "جمله نویسی ساده",
+    "SUB_STEPS": 1,
+    "STEP_NUMBER": 24
+  },
+  {
+    "NAME": "جمله نویسی متوسط",
+    "SUB_STEPS": 1,
+    "STEP_NUMBER": 25
+  },
+  {
+    "NAME": "آشنایی با \"کدام\"",
+    "SUB_STEPS": 1,
+    "STEP_NUMBER": 26
+  },
+  {
+    "NAME": "آشنایی با \"چرا\" و \"چون\"",
+    "SUB_STEPS": 1,
+    "STEP_NUMBER": 27
+  },
+  {
+    "NAME": "مرتب کردن جملات",
+    "SUB_STEPS": 1,
+    "STEP_NUMBER": 28
+  },
+  {
+    "NAME": "حرف ربط \"که\"",
+    "SUB_STEPS": 1,
+    "STEP_NUMBER": 29
+  },
+  {
+    "NAME": "حرف ربط \"برای\"",
+    "SUB_STEPS": 1,
+    "STEP_NUMBER": 30
+  },
+  {
+    "NAME": "کاربرد \"بعد\"",
+    "SUB_STEPS": 1,
+    "STEP_NUMBER": 31
+  },
+  {
+    "NAME": "کاربرد \"بنابراین\"",
+    "SUB_STEPS": 1,
+    "STEP_NUMBER": 32
+  },
+  {
+    "NAME": "توصیف مشاهیر ، مکان ها و اشیا",
+    "SUB_STEPS": 1,
+    "STEP_NUMBER": 33
+  },
+  {
+    "NAME": "جملات شرطی",
+    "SUB_STEPS": 1,
+    "STEP_NUMBER": 20
+  },
+  {
+    "NAME": "وابستگی جمله و کلمه",
+    "SUB_STEPS": 1,
+    "STEP_NUMBER": 34
+  },
+  {
+    "NAME": "اصلاح و تکمیل جملات",
+    "SUB_STEPS": 2,
+    "STEP_NUMBER": 35
+  },
+  {
+    "NAME": "برتر و برترین",
+    "SUB_STEPS": 1,
+    "STEP_NUMBER": 15
+  }
+]
