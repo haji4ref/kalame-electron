@@ -14,7 +14,7 @@
 </template>
 
 <script>
-    import Step from "./classes/Step";
+    import Step from "./classes/Model/Step";
     import SideBar from "./components/SideBar";
 
     export default {

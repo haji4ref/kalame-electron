@@ -17,7 +17,7 @@
 </template>
 
 <script>
-    import Step from "../classes/Step";
+    import Step from "../classes/Model/Step";
     import MediaController from "../classes/MediaController";
 
     export default {
@@ -47,7 +47,7 @@
                 let data = {
                     step: this.steps.find(e => e.id === this.stepId),
                     subStep: Object.assign(this.subSteps[this.subStepIndex], {index: this.subStepIndex}),
-                    hasLearning : new MediaController(this.stepId,this.subStepIndex).hasPictures
+                    hasLearning: new MediaController(this.stepId, this.subStepIndex).hasPictures
                 };
                 this.$emit("learnSelected", data);
             }

@@ -45,7 +45,7 @@
             </div>
 
             <div class="col-3">
-                <div class="d-flex justify-content-between">
+                <div class="d-flex justify-content-between align-items-center">
                     <span>صدا : </span>
                     <el-switch
                             v-model="voiceActive"
@@ -56,6 +56,10 @@
                             v-model="textActive"
                     >
                     </el-switch>
+                    <el-button type="success" @click="goToExam">
+                        <i class="el-icon-check"></i>
+                        برو به آزمون
+                    </el-button>
                 </div>
 
                 <div>
@@ -141,6 +145,9 @@
                 this.images = this.mediaController.getImages();
                 this.texts = this.mediaController.getTexts();
                 this.size = this.images.length;
+            },
+            goToExam() {
+                this.$router.push({name: 'exam', params: {step: this.step.id, subSteP: this.subStep.index}})
             }
         }
     };
