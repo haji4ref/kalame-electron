@@ -9,6 +9,6 @@ export default [
         path: '/learn', component: Learn
     },
     {
-        path: '/exam', component: Exam
+        name: 'exam', path: '/exam', component: Exam
     }
 ]
