@@ -1,0 +1,104 @@
+[
+  {
+    "ID": 1,
+    "TEXT": "تی شرت خشک شد",
+    "CORRECT": "تی شرت",
+    "IMGINDEX": 2
+  },
+  {
+    "ID": 2,
+    "TEXT": "جغد خواب بود",
+    "CORRECT": "بود",
+    "IMGINDEX": 5
+  },
+  {
+    "ID": 3,
+    "TEXT": "حسن لاغر شد",
+    "CORRECT": "شد",
+    "IMGINDEX": 8
+  },
+  {
+    "ID": 4,
+    "TEXT": "گل کوچک بود",
+    "CORRECT": "کوچک",
+    "IMGINDEX": 11
+  },
+  {
+    "ID": 5,
+    "TEXT": "گل بزرگ شد",
+    "CORRECT": "شد",
+    "IMGINDEX": 12
+  },
+  {
+    "ID": 6,
+    "TEXT": "تابلو کثیف بود",
+    "CORRECT": "بود",
+    "IMGINDEX": 13
+  },
+  {
+    "ID": 7,
+    "TEXT": "تابلو تمیز شد",
+    "CORRECT": "تمیز",
+    "IMGINDEX": 14
+  },
+  {
+    "ID": 8,
+    "TEXT": "طناب بلند بود",
+    "CORRECT": "بلند",
+    "IMGINDEX": 15
+  },
+  {
+    "ID": 9,
+    "TEXT": "طناب کوتاه شد",
+    "CORRECT": "شد",
+    "IMGINDEX": 16
+  },
+  {
+    "ID": 10,
+    "TEXT": "یخچال خالی بود",
+    "CORRECT": "خالی",
+    "IMGINDEX": 19
+  },
+  {
+    "ID": 11,
+    "TEXT": "یخچال پر شد",
+    "CORRECT": "یخچال",
+    "IMGINDEX": 20
+  },
+  {
+    "ID": 12,
+    "TEXT": "ناخن او کوتاه شد",
+    "CORRECT": "کوتاه",
+    "IMGINDEX": 22
+  },
+  {
+    "ID": 13,
+    "TEXT": "لامپ روشن شد",
+    "CORRECT": "شد",
+    "IMGINDEX": 24
+  },
+  {
+    "ID": 14,
+    "TEXT": "لیوان پر شد",
+    "CORRECT": "لیوان",
+    "IMGINDEX": 26
+  },
+  {
+    "ID": 15,
+    "TEXT": "در باز بود",
+    "CORRECT": "بود",
+    "IMGINDEX": 27
+  },
+  {
+    "ID": 16,
+    "TEXT": "دربسته شد",
+    "CORRECT": "بسته",
+    "IMGINDEX": 28
+  },
+  {
+    "ID": 17,
+    "TEXT": "عروسک خراب بود",
+    "CORRECT": "بود",
+    "IMGINDEX": 30
+  }
+]

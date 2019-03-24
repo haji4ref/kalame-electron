@@ -1,0 +1,86 @@
+[
+  {
+    "ID": 1,
+    "TEXT": "او چاقو دارد",
+    "CORRECT": "او",
+    "IMGINDEX": 9
+  },
+  {
+    "ID": 2,
+    "TEXT": "او عینک دارد",
+    "CORRECT": "عینک",
+    "IMGINDEX": 6
+  },
+  {
+    "ID": 3,
+    "TEXT": "او خرمالو دارد",
+    "CORRECT": "خرمالو",
+    "IMGINDEX": 4
+  },
+  {
+    "ID": 4,
+    "TEXT": "او قفل دارد",
+    "CORRECT": "قفل",
+    "IMGINDEX": 14
+  },
+  {
+    "ID": 5,
+    "TEXT": "او انبردست دارد",
+    "CORRECT": "انبردست",
+    "IMGINDEX": 13
+  },
+  {
+    "ID": 6,
+    "TEXT": "اسب دم دارد",
+    "CORRECT": "دم",
+    "IMGINDEX": 21
+  },
+  {
+    "ID": 7,
+    "TEXT": "ببر گوش دارد",
+    "CORRECT": "گوش",
+    "IMGINDEX": 24
+  },
+  {
+    "ID": 8,
+    "TEXT": "عقرب نیش دارد",
+    "CORRECT": "عقرب",
+    "IMGINDEX": 25
+  },
+  {
+    "ID": 9,
+    "TEXT": "طوطی نوک دارد",
+    "CORRECT": "نوک",
+    "IMGINDEX": 26
+  },
+  {
+    "ID": 10,
+    "TEXT": "سوسک شاخ دارد",
+    "CORRECT": "دارد",
+    "IMGINDEX": 30
+  },
+  {
+    "ID": 11,
+    "TEXT": "مسجد گنبد دارد",
+    "CORRECT": "گنبد",
+    "IMGINDEX": 34
+  },
+  {
+    "ID": 12,
+    "TEXT": "ساعت بند دارد",
+    "CORRECT": "بند",
+    "IMGINDEX": 40
+  },
+  {
+    "ID": 13,
+    "TEXT": "زرافه گردن دارد",
+    "CORRECT": "گردن",
+    "IMGINDEX": 28
+  },
+  {
+    "ID": 14,
+    "TEXT": "گربه چشم دارد",
+    "CORRECT": "دارد",
+    "IMGINDEX": 23
+  }
+]
