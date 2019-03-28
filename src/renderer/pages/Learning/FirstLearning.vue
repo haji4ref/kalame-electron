@@ -147,7 +147,7 @@
                 this.size = this.images.length;
             },
             goToExam() {
-                this.$router.push({name: 'exam', params: {step: this.step.id, subSteP: this.subStep.index}})
+                this.$router.push({name: 'exam', params: {step: this.step, subStep: this.subStep}})
             }
         }
     };

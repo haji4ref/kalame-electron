@@ -4,11 +4,11 @@
         <div class="p-2">
             <el-card>
                 <div slot="header" class="clearfix">
-                    <span class="text-bold" v-if="this.subStep && this.step">{{this.step.title}} : {{this.subStep.title}}</span>
+                    <span class="text-bold" v-if="isLoadedComplete">{{this.step.title}} : {{this.subStep.title}}</span>
                     <span v-else>👆برای شروع آزمون از قسمت بالا گام و زیر گام رو انتخاب کن</span>
                 </div>
                 <transition name="fade">
-                    <div v-if="this.subStep && this.step">
+                    <div v-if="isLoadedComplete">
                         salam
                     </div>
                 </transition>
@@ -30,8 +30,14 @@
                 step: null,
             }
         },
-        created(){
-            console.log(this.$route.params);
+        created() {
+            this.step = this.$route.params.step;
+            this.subStep = this.$route.params.subStep;
+        },
+        computed: {
+            isLoadedComplete() {
+                return this.step !== null && this.subStep !== null;
+            }
         },
         methods: {
             learnSelected(data) {

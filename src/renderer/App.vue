@@ -7,9 +7,11 @@
                 </transition>
             </div>
             <div class="side_bar p-3" style="width:8%">
-                <side-bar/>
+                <side-bar />
             </div>
         </div>
+
+
     </div>
 </template>
 
@@ -24,9 +26,17 @@
         },
         data() {
             return {
-                radio: false
+                radio: false,
+                item: {
+                    aref: 'ads',
+                    asda: 'asdad',
+                    alie: 12,
+                }
             };
-        }
+        },
+        methods: {
+
+        },
     };
 </script>
 
